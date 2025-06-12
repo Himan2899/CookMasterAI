@@ -124,10 +124,15 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Framer Motion for smooth animations
 - All contributors who have helped shape this project
 
-## 📞 Support
+## 🤝 Support
 
-For support, please open an issue in the GitHub repository or contact the maintainers.
+If you find this project helpful, please give it a ⭐️ on GitHub!
+
+## 📞 Contact
+
+For any queries or support, please reach out to us through:
+- Email: himanshuofficialuserid@gmail.com
 
 ---
 
-Made with ❤️ by [Your Name] 
+Developed with ❤️ by Himanshu Bali 💻👨‍💻🚀
